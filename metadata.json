@@ -1,0 +1,6 @@
+{
+  "name": "TWO YEARS — Cinematic Interactive Story",
+  "description": "An interactive, scroll-driven cinematic 3D story about college life, friendship, an unspoken crush, time, and memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
